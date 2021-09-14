@@ -64,7 +64,8 @@ Whenever I try to create a project under the template, Windows Console Applicati
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    Whenever I try to create a project under the template, Windows Console Application (C++/WinRT), I get the following error. I have tried downloading the C++/WinRT Visual Studio Extension and/or the UWP essentials extension, but this had no success.
+    <li>Whenever I try to create a project under the template, Windows Console Application (C++/WinRT), I get the following error. I have tried downloading the C++/WinRT Visual Studio Extension and/or the UWP essentials extension, but this had no success.
+![Sample Image](WinRT_error.PNG)</li>
 ![Sample Image](WinRT_error.PNG)
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
