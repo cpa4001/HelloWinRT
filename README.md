@@ -31,22 +31,15 @@ Whenever I try to create a project under the template, Windows Console Applicati
 <br />
 <p align="center">
   <a href="https://github.com/cpa4001/HelloWinRT">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">project_title</h3>
+  <h3 align="center">HelloWinRT</h3>
 
   <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    An introduction to the Windows Runtime API
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <br />
   </p>
 </p>
 
